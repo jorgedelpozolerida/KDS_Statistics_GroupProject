@@ -15,7 +15,7 @@
 
 # 5. Splitting the dataset into train, test, validation
 
-# 6. Feature scaling - WE NEED SCALING  https://www.kaggle.com/code/aimack/complete-guide-to-feature-scaling    The Big Question – Normalize or Standardize?
+# 6. Feature scaling - WE NEED SCALING  https://www.kaggle.com/code/aimack/complete-guide-to-feature-scaling  The Big Question – Normalize or Standardize?
 	
   Normalization vs. standardization is an eternal question among machine learning newcomers. Let me elaborate on the answer in this section.
 * Normalization is good to use when you know that the distribution of your data does not follow a Gaussian distribution. This can be useful in algorithms that do not assume any distribution of the data like K-Nearest Neighbors and Neural Networks.

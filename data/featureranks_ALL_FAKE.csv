@@ -20,7 +20,7 @@ USAhouseprices2014;last_modification;linear_regression;18
 USAhouseprices2014;have_basement;linear_regression;19
 USAhouseprices2014;date;PCA;1
 USAhouseprices2014;bedrooms;PCA;2
-USAhouseprices2014;bathrooms;PCA;7
+USAhouseprices2014;bathrooms;PCA;7.4
 USAhouseprices2014;sqft_living;PCA;4
 USAhouseprices2014;sqft_lot;PCA;5
 USAhouseprices2014;floors;PCA;6
@@ -31,7 +31,7 @@ USAhouseprices2014;sqft_above;PCA;10
 USAhouseprices2014;sqft_basement;PCA;11
 USAhouseprices2014;yr_built;PCA;12
 USAhouseprices2014;yr_renovated;PCA;13
-USAhouseprices2014;street;PCA;14
+USAhouseprices2014;street;PCA;14.4
 USAhouseprices2014;city;PCA;15
 USAhouseprices2014;statezip;PCA;16
 USAhouseprices2014;country;PCA;17
@@ -39,7 +39,7 @@ USAhouseprices2014;last_modification;PCA;18
 USAhouseprices2014;have_basement;PCA;19
 USAhouseprices2014;date;RandomForest;1
 USAhouseprices2014;bedrooms;RandomForest;2
-USAhouseprices2014;bathrooms;RandomForest;3
+USAhouseprices2014;bathrooms;RandomForest;3.5
 USAhouseprices2014;sqft_living;RandomForest;4
 USAhouseprices2014;sqft_lot;RandomForest;5
 USAhouseprices2014;floors;RandomForest;6

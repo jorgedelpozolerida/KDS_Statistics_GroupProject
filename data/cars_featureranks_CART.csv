@@ -1,0 +1,49 @@
+CART;feature_name
+7.0;Unnamed: 0
+32.5;EPA Fuel Economy Est - City (MPG)
+32.5;Engine
+12.0;Passenger Capacity
+32.5;Passenger Doors
+5.5;Wheelbase (in)
+5.5;SAE Net Torque @ RPM
+1.0;SAE Net Horsepower @ RPM
+3.0;Displacement
+32.5;Trans Type
+32.5;Air Bag-Side Head-Front
+32.5;Air Bag-Side Head-Rear
+32.5;Child Safety Rear Door Locks
+32.5;Daytime Running Lights
+12.0;Traction Control
+32.5;Night Vision
+32.5;Rollover Protection Bars
+2.0;Basic Miles/km
+12.0;Basic Years
+32.5;Corrosion Miles/km
+32.5;Corrosion Years
+12.0;Drivetrain Miles/km
+32.5;Drivetrain Years
+12.0;Turning Diameter - Curb to Curb (ft)
+32.5;Roadside Assistance Miles/km
+4.0;Manufacturer
+12.0;Model year
+12.0;Front tire width
+12.0;Front tire aspect ratio
+12.0;Front tire rim size
+32.5;Front Wheel Material_Alloy
+32.5;Front Wheel Material_Aluminum
+32.5;Front Wheel Material_Carbon Fibre
+32.5;Front Wheel Material_Steel
+32.5;Category_Car
+32.5;Category_Pickup
+32.5;Category_SUV
+32.5;Category_Van
+32.5;Drivetrain_4WD
+32.5;Drivetrain_AWD
+32.5;Drivetrain_FWD
+32.5;Drivetrain_RWD
+32.5;Fuel System_DI
+32.5;Fuel System_Electric FI
+32.5;Fuel System_SFI
+32.5;Trans Description Cont._Automatic
+32.5;Trans Description Cont._CVT
+32.5;Trans Description Cont._Manual

@@ -1,0 +1,13 @@
+feature_name;method;feature_rank;dataset
+holiday;Random_forest;12.0;Bike_sharing
+windspeed;Random_forest;11.0;Bike_sharing
+mnth;Random_forest;9.0;Bike_sharing
+weekday;Random_forest;9.0;Bike_sharing
+season;Random_forest;6.0;Bike_sharing
+weathersit;Random_forest;6.0;Bike_sharing
+atemp;Random_forest;6.0;Bike_sharing
+hum;Random_forest;5.0;Bike_sharing
+workingday;Random_forest;4.0;Bike_sharing
+yr;Random_forest;3.0;Bike_sharing
+temp;Random_forest;2.0;Bike_sharing
+hr;Random_forest;1.0;Bike_sharing

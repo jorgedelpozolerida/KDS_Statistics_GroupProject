@@ -1,0 +1,35 @@
+feature_name;method;feature_rank;dataset
+Engine;Random_forest;18.0;cars
+Drivetrain;Random_forest;18.0;cars
+Passenger Doors;Random_forest;18.0;cars
+Fuel System;Random_forest;18.0;cars
+Trans Description Cont.;Random_forest;18.0;cars
+Trans Type;Random_forest;18.0;cars
+Air Bag-Side Head-Front;Random_forest;18.0;cars
+Air Bag-Side Head-Rear;Random_forest;18.0;cars
+Child Safety Rear Door Locks;Random_forest;18.0;cars
+Daytime Running Lights;Random_forest;18.0;cars
+Night Vision;Random_forest;18.0;cars
+Rollover Protection Bars;Random_forest;18.0;cars
+Basic Years;Random_forest;18.0;cars
+Corrosion Miles/km;Random_forest;18.0;cars
+Corrosion Years;Random_forest;18.0;cars
+Roadside Assistance Miles/km;Random_forest;18.0;cars
+Category;Random_forest;18.0;cars
+EPA Fuel Economy Est - City (MPG);Random_forest;8.0;cars
+Passenger Capacity;Random_forest;8.0;cars
+Traction Control;Random_forest;8.0;cars
+Drivetrain Miles/km;Random_forest;8.0;cars
+Turning Diameter - Curb to Curb (ft);Random_forest;8.0;cars
+Front Wheel Material;Random_forest;8.0;cars
+Model year;Random_forest;8.0;cars
+Front tire width;Random_forest;8.0;cars
+Front tire aspect ratio;Random_forest;8.0;cars
+Front tire rim size;Random_forest;8.0;cars
+Drivetrain Years;Random_forest;7.0;cars
+Wheelbase (in);Random_forest;5.0;cars
+Manufacturer;Random_forest;5.0;cars
+SAE Net Torque @ RPM;Random_forest;4.0;cars
+Displacement;Random_forest;3.0;cars
+Basic Miles/km;Random_forest;2.0;cars
+SAE Net Horsepower @ RPM;Random_forest;1.0;cars

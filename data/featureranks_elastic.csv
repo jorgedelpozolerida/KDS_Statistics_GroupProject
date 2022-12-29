@@ -1,0 +1,137 @@
+feature_name;feature_rank;method;dataset
+Unnamed: 0;10.0;elastic_net;USA_housing
+bedrooms;11.0;elastic_net;USA_housing
+bathrooms;7.0;elastic_net;USA_housing
+sqft_living;1.0;elastic_net;USA_housing
+sqft_lot;11.0;elastic_net;USA_housing
+floors;6.0;elastic_net;USA_housing
+waterfront;3.0;elastic_net;USA_housing
+view;2.0;elastic_net;USA_housing
+condition;4.0;elastic_net;USA_housing
+sqft_basement;11.0;elastic_net;USA_housing
+year_since_1st_renovation;11.0;elastic_net;USA_housing
+city;5.0;elastic_net;USA_housing
+statezip;9.0;elastic_net;USA_housing
+have_basement;8.0;elastic_net;USA_housing
+zipcode;9.0;elastic_net;austin_housing
+latitude;12.0;elastic_net;austin_housing
+longitude;7.0;elastic_net;austin_housing
+propertyTaxRate;8.0;elastic_net;austin_housing
+garageSpaces;31.0;elastic_net;austin_housing
+parkingSpaces;36.0;elastic_net;austin_housing
+yearBuilt;11.0;elastic_net;austin_housing
+numPriceChanges;10.0;elastic_net;austin_housing
+numOfAppliances;32.0;elastic_net;austin_housing
+numOfParkingFeatures;13.0;elastic_net;austin_housing
+numOfPatioAndPorchFeatures;16.0;elastic_net;austin_housing
+numOfSecurityFeatures;28.0;elastic_net;austin_housing
+numOfWindowFeatures;24.0;elastic_net;austin_housing
+lotSizeSqFt;14.0;elastic_net;austin_housing
+livingAreaSqFt;1.0;elastic_net;austin_housing
+avgSchoolDistance;21.0;elastic_net;austin_housing
+avgSchoolRating;4.0;elastic_net;austin_housing
+avgSchoolSize;15.0;elastic_net;austin_housing
+MedianStudentsPerTeacher;19.0;elastic_net;austin_housing
+numOfBathrooms;2.0;elastic_net;austin_housing
+numOfBedrooms;5.0;elastic_net;austin_housing
+numOfStories;6.0;elastic_net;austin_housing
+homeType_Apartment;33.0;elastic_net;austin_housing
+homeType_Condo;17.0;elastic_net;austin_housing
+homeType_Mobile / Manufactured;34.0;elastic_net;austin_housing
+homeType_MultiFamily;26.0;elastic_net;austin_housing
+homeType_Multiple Occupancy;23.0;elastic_net;austin_housing
+homeType_Other;30.0;elastic_net;austin_housing
+homeType_Residential;29.0;elastic_net;austin_housing
+homeType_Single Family;36.0;elastic_net;austin_housing
+homeType_Townhouse;27.0;elastic_net;austin_housing
+homeType_Vacant Land;18.0;elastic_net;austin_housing
+hasAssociation_False;3.0;elastic_net;austin_housing
+hasAssociation_True;36.0;elastic_net;austin_housing
+hasGarage_False;22.0;elastic_net;austin_housing
+hasGarage_True;36.0;elastic_net;austin_housing
+hasSpa_False;20.0;elastic_net;austin_housing
+hasSpa_True;35.0;elastic_net;austin_housing
+hasView_False;25.0;elastic_net;austin_housing
+hasView_True;36.0;elastic_net;austin_housing
+Unnamed: 0;5.0;elastic_net;airbnb
+EPA Fuel Economy Est - City (MPG);7.0;elastic_net;airbnb
+Engine;7.0;elastic_net;airbnb
+Drivetrain;7.0;elastic_net;airbnb
+Passenger Capacity;7.0;elastic_net;airbnb
+Passenger Doors;7.0;elastic_net;airbnb
+Wheelbase (in);7.0;elastic_net;airbnb
+SAE Net Torque @ RPM;7.0;elastic_net;airbnb
+Fuel System;7.0;elastic_net;airbnb
+SAE Net Horsepower @ RPM;1.0;elastic_net;airbnb
+Displacement;7.0;elastic_net;airbnb
+Trans Description Cont.;7.0;elastic_net;airbnb
+Trans Type;7.0;elastic_net;airbnb
+Air Bag-Side Head-Front;7.0;elastic_net;airbnb
+Air Bag-Side Head-Rear;7.0;elastic_net;airbnb
+Child Safety Rear Door Locks;7.0;elastic_net;airbnb
+Daytime Running Lights;7.0;elastic_net;airbnb
+Traction Control;7.0;elastic_net;airbnb
+Night Vision;7.0;elastic_net;airbnb
+Rollover Protection Bars;7.0;elastic_net;airbnb
+Basic Miles/km;2.0;elastic_net;airbnb
+Basic Years;7.0;elastic_net;airbnb
+Corrosion Miles/km;4.0;elastic_net;airbnb
+Corrosion Years;7.0;elastic_net;airbnb
+Drivetrain Miles/km;3.0;elastic_net;airbnb
+Drivetrain Years;7.0;elastic_net;airbnb
+Turning Diameter - Curb to Curb (ft);7.0;elastic_net;airbnb
+Front Wheel Material;7.0;elastic_net;airbnb
+Roadside Assistance Miles/km;6.0;elastic_net;airbnb
+Manufacturer;7.0;elastic_net;airbnb
+Model year;7.0;elastic_net;airbnb
+Category;7.0;elastic_net;airbnb
+Front tire width;7.0;elastic_net;airbnb
+Front tire aspect ratio;7.0;elastic_net;airbnb
+Front tire rim size;7.0;elastic_net;airbnb
+Unnamed: 0;5.0;elastic_net;cars
+EPA Fuel Economy Est - City (MPG);7.0;elastic_net;cars
+Engine;7.0;elastic_net;cars
+Drivetrain;7.0;elastic_net;cars
+Passenger Capacity;7.0;elastic_net;cars
+Passenger Doors;7.0;elastic_net;cars
+Wheelbase (in);7.0;elastic_net;cars
+SAE Net Torque @ RPM;7.0;elastic_net;cars
+Fuel System;7.0;elastic_net;cars
+SAE Net Horsepower @ RPM;1.0;elastic_net;cars
+Displacement;7.0;elastic_net;cars
+Trans Description Cont.;7.0;elastic_net;cars
+Trans Type;7.0;elastic_net;cars
+Air Bag-Side Head-Front;7.0;elastic_net;cars
+Air Bag-Side Head-Rear;7.0;elastic_net;cars
+Child Safety Rear Door Locks;7.0;elastic_net;cars
+Daytime Running Lights;7.0;elastic_net;cars
+Traction Control;7.0;elastic_net;cars
+Night Vision;7.0;elastic_net;cars
+Rollover Protection Bars;7.0;elastic_net;cars
+Basic Miles/km;2.0;elastic_net;cars
+Basic Years;7.0;elastic_net;cars
+Corrosion Miles/km;4.0;elastic_net;cars
+Corrosion Years;7.0;elastic_net;cars
+Drivetrain Miles/km;3.0;elastic_net;cars
+Drivetrain Years;7.0;elastic_net;cars
+Turning Diameter - Curb to Curb (ft);7.0;elastic_net;cars
+Front Wheel Material;7.0;elastic_net;cars
+Roadside Assistance Miles/km;6.0;elastic_net;cars
+Manufacturer;7.0;elastic_net;cars
+Model year;7.0;elastic_net;cars
+Category;7.0;elastic_net;cars
+Front tire width;7.0;elastic_net;cars
+Front tire aspect ratio;7.0;elastic_net;cars
+Front tire rim size;7.0;elastic_net;cars
+season;6.0;elastic_net;bike
+yr;5.0;elastic_net;bike
+mnth;12.0;elastic_net;bike
+hr;1.0;elastic_net;bike
+holiday;9.0;elastic_net;bike
+weekday;10.0;elastic_net;bike
+workingday;11.0;elastic_net;bike
+weathersit;8.0;elastic_net;bike
+temp;3.0;elastic_net;bike
+atemp;4.0;elastic_net;bike
+hum;2.0;elastic_net;bike
+windspeed;7.0;elastic_net;bike

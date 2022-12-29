@@ -1,0 +1,110 @@
+feature_name;method;feature_rank;dataset
+country;Random_forest;17.0;USA_houseprices_2014
+have_basement;Random_forest;17.0;USA_houseprices_2014
+floors;Random_forest;16.0;USA_houseprices_2014
+bedrooms;Random_forest;13.0;USA_houseprices_2014
+waterfront;Random_forest;13.0;USA_houseprices_2014
+condition;Random_forest;13.0;USA_houseprices_2014
+yr_renovated;Random_forest;12.0;USA_houseprices_2014
+view;Random_forest;11.0;USA_houseprices_2014
+last_modification;Random_forest;10.0;USA_houseprices_2014
+bathrooms;Random_forest;7.0;USA_houseprices_2014
+sqft_above;Random_forest;7.0;USA_houseprices_2014
+sqft_basement;Random_forest;7.0;USA_houseprices_2014
+yr_built;Random_forest;6.0;USA_houseprices_2014
+city;Random_forest;5.0;USA_houseprices_2014
+statezip;Random_forest;4.0;USA_houseprices_2014
+sqft_lot;Random_forest;3.0;USA_houseprices_2014
+street;Random_forest;2.0;USA_houseprices_2014
+sqft_living;Random_forest;1.0;USA_houseprices_2014
+holiday;Random_forest;12.0;Bike_sharing
+windspeed;Random_forest;11.0;Bike_sharing
+mnth;Random_forest;9.0;Bike_sharing
+weekday;Random_forest;9.0;Bike_sharing
+season;Random_forest;6.0;Bike_sharing
+weathersit;Random_forest;6.0;Bike_sharing
+atemp;Random_forest;6.0;Bike_sharing
+hum;Random_forest;5.0;Bike_sharing
+workingday;Random_forest;4.0;Bike_sharing
+yr;Random_forest;3.0;Bike_sharing
+temp;Random_forest;2.0;Bike_sharing
+hr;Random_forest;1.0;Bike_sharing
+host_has_profile_pic;Random_forest;18.0;Airbnb_price
+bed_type;Random_forest;17.0;Airbnb_price
+cleaning_fee;Random_forest;12.0;Airbnb_price
+city;Random_forest;12.0;Airbnb_price
+host_identity_verified;Random_forest;12.0;Airbnb_price
+instant_bookable;Random_forest;12.0;Airbnb_price
+beds;Random_forest;12.0;Airbnb_price
+cancellation_policy;Random_forest;11.0;Airbnb_price
+property_type;Random_forest;10.0;Airbnb_price
+review_scores_rating;Random_forest;9.0;Airbnb_price
+bedrooms;Random_forest;8.0;Airbnb_price
+accommodates;Random_forest;7.0;Airbnb_price
+number_of_reviews;Random_forest;6.0;Airbnb_price
+amenities;Random_forest;5.0;Airbnb_price
+latitude;Random_forest;4.0;Airbnb_price
+bathrooms;Random_forest;3.0;Airbnb_price
+longitude;Random_forest;2.0;Airbnb_price
+room_type;Random_forest;1.0;Airbnb_price
+Engine;Random_forest;18.0;cars
+Drivetrain;Random_forest;18.0;cars
+Passenger Doors;Random_forest;18.0;cars
+Fuel System;Random_forest;18.0;cars
+Trans Description Cont.;Random_forest;18.0;cars
+Trans Type;Random_forest;18.0;cars
+Air Bag-Side Head-Front;Random_forest;18.0;cars
+Air Bag-Side Head-Rear;Random_forest;18.0;cars
+Child Safety Rear Door Locks;Random_forest;18.0;cars
+Daytime Running Lights;Random_forest;18.0;cars
+Night Vision;Random_forest;18.0;cars
+Rollover Protection Bars;Random_forest;18.0;cars
+Basic Years;Random_forest;18.0;cars
+Corrosion Miles/km;Random_forest;18.0;cars
+Corrosion Years;Random_forest;18.0;cars
+Roadside Assistance Miles/km;Random_forest;18.0;cars
+Category;Random_forest;18.0;cars
+EPA Fuel Economy Est - City (MPG);Random_forest;8.0;cars
+Passenger Capacity;Random_forest;8.0;cars
+Traction Control;Random_forest;8.0;cars
+Drivetrain Miles/km;Random_forest;8.0;cars
+Turning Diameter - Curb to Curb (ft);Random_forest;8.0;cars
+Front Wheel Material;Random_forest;8.0;cars
+Model year;Random_forest;8.0;cars
+Front tire width;Random_forest;8.0;cars
+Front tire aspect ratio;Random_forest;8.0;cars
+Front tire rim size;Random_forest;8.0;cars
+Drivetrain Years;Random_forest;7.0;cars
+Wheelbase (in);Random_forest;5.0;cars
+Manufacturer;Random_forest;5.0;cars
+SAE Net Torque @ RPM;Random_forest;4.0;cars
+Displacement;Random_forest;3.0;cars
+Basic Miles/km;Random_forest;2.0;cars
+SAE Net Horsepower @ RPM;Random_forest;1.0;cars
+propertyTaxRate;Random_forest;24.0;austin_housing
+hasGarage;Random_forest;24.0;austin_housing
+hasView;Random_forest;24.0;austin_housing
+numOfWindowFeatures;Random_forest;24.0;austin_housing
+garageSpaces;Random_forest;15.0;austin_housing
+hasSpa;Random_forest;15.0;austin_housing
+homeType;Random_forest;15.0;austin_housing
+parkingSpaces;Random_forest;15.0;austin_housing
+numOfParkingFeatures;Random_forest;15.0;austin_housing
+numOfPatioAndPorchFeatures;Random_forest;15.0;austin_housing
+lotSizeSqFt;Random_forest;15.0;austin_housing
+MedianStudentsPerTeacher;Random_forest;15.0;austin_housing
+numOfStories;Random_forest;15.0;austin_housing
+hasAssociation;Random_forest;12.0;austin_housing
+numOfSecurityFeatures;Random_forest;12.0;austin_housing
+numOfBedrooms;Random_forest;12.0;austin_housing
+numOfAppliances;Random_forest;11.0;austin_housing
+numPriceChanges;Random_forest;9.0;austin_housing
+avgSchoolDistance;Random_forest;9.0;austin_housing
+avgSchoolSize;Random_forest;8.0;austin_housing
+avgSchoolRating;Random_forest;7.0;austin_housing
+yearBuilt;Random_forest;6.0;austin_housing
+latitude;Random_forest;4.0;austin_housing
+longitude;Random_forest;4.0;austin_housing
+zipcode;Random_forest;3.0;austin_housing
+numOfBathrooms;Random_forest;2.0;austin_housing
+livingAreaSqFt;Random_forest;1.0;austin_housing

@@ -1,0 +1,15 @@
+feature_name;feature_rank;method;dataset
+Unnamed: 0;10.0;elastic_net;USA_housing
+bedrooms;11.0;elastic_net;USA_housing
+bathrooms;7.0;elastic_net;USA_housing
+sqft_living;1.0;elastic_net;USA_housing
+sqft_lot;11.0;elastic_net;USA_housing
+floors;6.0;elastic_net;USA_housing
+waterfront;3.0;elastic_net;USA_housing
+view;2.0;elastic_net;USA_housing
+condition;4.0;elastic_net;USA_housing
+sqft_basement;11.0;elastic_net;USA_housing
+year_since_1st_renovation;11.0;elastic_net;USA_housing
+city;5.0;elastic_net;USA_housing
+statezip;9.0;elastic_net;USA_housing
+have_basement;8.0;elastic_net;USA_housing

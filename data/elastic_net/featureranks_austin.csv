@@ -1,0 +1,41 @@
+feature_name;feature_rank;method;dataset
+zipcode;9.0;elastic_net;austin_housing
+latitude;12.0;elastic_net;austin_housing
+longitude;7.0;elastic_net;austin_housing
+propertyTaxRate;8.0;elastic_net;austin_housing
+garageSpaces;31.0;elastic_net;austin_housing
+parkingSpaces;36.0;elastic_net;austin_housing
+yearBuilt;11.0;elastic_net;austin_housing
+numPriceChanges;10.0;elastic_net;austin_housing
+numOfAppliances;32.0;elastic_net;austin_housing
+numOfParkingFeatures;13.0;elastic_net;austin_housing
+numOfPatioAndPorchFeatures;16.0;elastic_net;austin_housing
+numOfSecurityFeatures;28.0;elastic_net;austin_housing
+numOfWindowFeatures;24.0;elastic_net;austin_housing
+lotSizeSqFt;14.0;elastic_net;austin_housing
+livingAreaSqFt;1.0;elastic_net;austin_housing
+avgSchoolDistance;21.0;elastic_net;austin_housing
+avgSchoolRating;4.0;elastic_net;austin_housing
+avgSchoolSize;15.0;elastic_net;austin_housing
+MedianStudentsPerTeacher;19.0;elastic_net;austin_housing
+numOfBathrooms;2.0;elastic_net;austin_housing
+numOfBedrooms;5.0;elastic_net;austin_housing
+numOfStories;6.0;elastic_net;austin_housing
+homeType_Apartment;33.0;elastic_net;austin_housing
+homeType_Condo;17.0;elastic_net;austin_housing
+homeType_Mobile / Manufactured;34.0;elastic_net;austin_housing
+homeType_MultiFamily;26.0;elastic_net;austin_housing
+homeType_Multiple Occupancy;23.0;elastic_net;austin_housing
+homeType_Other;30.0;elastic_net;austin_housing
+homeType_Residential;29.0;elastic_net;austin_housing
+homeType_Single Family;36.0;elastic_net;austin_housing
+homeType_Townhouse;27.0;elastic_net;austin_housing
+homeType_Vacant Land;18.0;elastic_net;austin_housing
+hasAssociation_False;3.0;elastic_net;austin_housing
+hasAssociation_True;36.0;elastic_net;austin_housing
+hasGarage_False;22.0;elastic_net;austin_housing
+hasGarage_True;36.0;elastic_net;austin_housing
+hasSpa_False;20.0;elastic_net;austin_housing
+hasSpa_True;35.0;elastic_net;austin_housing
+hasView_False;25.0;elastic_net;austin_housing
+hasView_True;36.0;elastic_net;austin_housing

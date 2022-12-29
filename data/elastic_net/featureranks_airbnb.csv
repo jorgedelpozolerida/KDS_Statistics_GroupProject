@@ -1,0 +1,36 @@
+feature_name;feature_rank;method;dataset
+Unnamed: 0;5.0;elastic_net;airbnb
+EPA Fuel Economy Est - City (MPG);7.0;elastic_net;airbnb
+Engine;7.0;elastic_net;airbnb
+Drivetrain;7.0;elastic_net;airbnb
+Passenger Capacity;7.0;elastic_net;airbnb
+Passenger Doors;7.0;elastic_net;airbnb
+Wheelbase (in);7.0;elastic_net;airbnb
+SAE Net Torque @ RPM;7.0;elastic_net;airbnb
+Fuel System;7.0;elastic_net;airbnb
+SAE Net Horsepower @ RPM;1.0;elastic_net;airbnb
+Displacement;7.0;elastic_net;airbnb
+Trans Description Cont.;7.0;elastic_net;airbnb
+Trans Type;7.0;elastic_net;airbnb
+Air Bag-Side Head-Front;7.0;elastic_net;airbnb
+Air Bag-Side Head-Rear;7.0;elastic_net;airbnb
+Child Safety Rear Door Locks;7.0;elastic_net;airbnb
+Daytime Running Lights;7.0;elastic_net;airbnb
+Traction Control;7.0;elastic_net;airbnb
+Night Vision;7.0;elastic_net;airbnb
+Rollover Protection Bars;7.0;elastic_net;airbnb
+Basic Miles/km;2.0;elastic_net;airbnb
+Basic Years;7.0;elastic_net;airbnb
+Corrosion Miles/km;4.0;elastic_net;airbnb
+Corrosion Years;7.0;elastic_net;airbnb
+Drivetrain Miles/km;3.0;elastic_net;airbnb
+Drivetrain Years;7.0;elastic_net;airbnb
+Turning Diameter - Curb to Curb (ft);7.0;elastic_net;airbnb
+Front Wheel Material;7.0;elastic_net;airbnb
+Roadside Assistance Miles/km;6.0;elastic_net;airbnb
+Manufacturer;7.0;elastic_net;airbnb
+Model year;7.0;elastic_net;airbnb
+Category;7.0;elastic_net;airbnb
+Front tire width;7.0;elastic_net;airbnb
+Front tire aspect ratio;7.0;elastic_net;airbnb
+Front tire rim size;7.0;elastic_net;airbnb

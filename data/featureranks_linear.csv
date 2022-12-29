@@ -1,43 +1,313 @@
 feature_name;method;feature_rank;dataset
-bedrooms;Linear_regression;5.0;USA_houseprices_2014
-bathrooms;Linear_regression;3.0;USA_houseprices_2014
+bedrooms;Linear_regression;3.0;USA_houseprices_2014
+bathrooms;Linear_regression;9.0;USA_houseprices_2014
 sqft_living;Linear_regression;1.0;USA_houseprices_2014
 sqft_lot;Linear_regression;2.0;USA_houseprices_2014
-floors;Linear_regression;9.0;USA_houseprices_2014
-waterfront;Linear_regression;8.0;USA_houseprices_2014
-view;Linear_regression;7.0;USA_houseprices_2014
-condition;Linear_regression;5.0;USA_houseprices_2014
-sqft_basement;Linear_regression;11.0;USA_houseprices_2014
-city;Linear_regression;5.0;USA_houseprices_2014
-statezip;Linear_regression;10.0;USA_houseprices_2014
-country;Linear_regression;13.5;USA_houseprices_2014
-have_basement;Linear_regression;13.5;USA_houseprices_2014
-yrs_lastmod;Linear_regression;12.0;USA_houseprices_2014
+floors;Linear_regression;12.5;USA_houseprices_2014
+waterfront;Linear_regression;4.0;USA_houseprices_2014
+view;Linear_regression;6.0;USA_houseprices_2014
+condition;Linear_regression;6.0;USA_houseprices_2014
+sqft_basement;Linear_regression;6.0;USA_houseprices_2014
+year_since_1st_renovation;Linear_regression;12.5;USA_houseprices_2014
+city;Linear_regression;8.0;USA_houseprices_2014
+statezip;Linear_regression;10.5;USA_houseprices_2014
+have_basement;Linear_regression;10.5;USA_houseprices_2014
 bedrooms;Ridge_regression;10.0;USA_houseprices_2014
 bathrooms;Ridge_regression;2.0;USA_houseprices_2014
 sqft_living;Ridge_regression;1.0;USA_houseprices_2014
-sqft_lot;Ridge_regression;12.0;USA_houseprices_2014
-floors;Ridge_regression;5.5;USA_houseprices_2014
-waterfront;Ridge_regression;8.0;USA_houseprices_2014
-view;Ridge_regression;3.0;USA_houseprices_2014
-condition;Ridge_regression;7.0;USA_houseprices_2014
-sqft_basement;Ridge_regression;5.5;USA_houseprices_2014
-city;Ridge_regression;4.0;USA_houseprices_2014
-statezip;Ridge_regression;9.0;USA_houseprices_2014
-country;Ridge_regression;13.5;USA_houseprices_2014
-have_basement;Ridge_regression;13.5;USA_houseprices_2014
-yrs_lastmod;Ridge_regression;11.0;USA_houseprices_2014
-bedrooms;Lasso_regression;10.0;USA_houseprices_2014
-bathrooms;Lasso_regression;2.0;USA_houseprices_2014
+sqft_lot;Ridge_regression;8.0;USA_houseprices_2014
+floors;Ridge_regression;10.0;USA_houseprices_2014
+waterfront;Ridge_regression;3.0;USA_houseprices_2014
+view;Ridge_regression;4.0;USA_houseprices_2014
+condition;Ridge_regression;6.0;USA_houseprices_2014
+sqft_basement;Ridge_regression;5.0;USA_houseprices_2014
+year_since_1st_renovation;Ridge_regression;12.0;USA_houseprices_2014
+city;Ridge_regression;7.0;USA_houseprices_2014
+statezip;Ridge_regression;10.0;USA_houseprices_2014
+have_basement;Ridge_regression;13.0;USA_houseprices_2014
+bedrooms;Lasso_regression;3.0;USA_houseprices_2014
+bathrooms;Lasso_regression;9.0;USA_houseprices_2014
 sqft_living;Lasso_regression;1.0;USA_houseprices_2014
-sqft_lot;Lasso_regression;10.0;USA_houseprices_2014
-floors;Lasso_regression;4.0;USA_houseprices_2014
-waterfront;Lasso_regression;10.0;USA_houseprices_2014
-view;Lasso_regression;3.0;USA_houseprices_2014
-condition;Lasso_regression;10.0;USA_houseprices_2014
-sqft_basement;Lasso_regression;10.0;USA_houseprices_2014
-city;Lasso_regression;5.0;USA_houseprices_2014
-statezip;Lasso_regression;10.0;USA_houseprices_2014
-country;Lasso_regression;10.0;USA_houseprices_2014
-have_basement;Lasso_regression;10.0;USA_houseprices_2014
-yrs_lastmod;Lasso_regression;10.0;USA_houseprices_2014
+sqft_lot;Lasso_regression;2.0;USA_houseprices_2014
+floors;Lasso_regression;12.5;USA_houseprices_2014
+waterfront;Lasso_regression;4.0;USA_houseprices_2014
+view;Lasso_regression;6.0;USA_houseprices_2014
+condition;Lasso_regression;6.0;USA_houseprices_2014
+sqft_basement;Lasso_regression;6.0;USA_houseprices_2014
+year_since_1st_renovation;Lasso_regression;12.5;USA_houseprices_2014
+city;Lasso_regression;8.0;USA_houseprices_2014
+statezip;Lasso_regression;10.5;USA_houseprices_2014
+have_basement;Lasso_regression;10.5;USA_houseprices_2014
+season;Linear_regression;6.0;Bike_sharing
+yr;Linear_regression;4.0;Bike_sharing
+mnth;Linear_regression;12.0;Bike_sharing
+hr;Linear_regression;3.0;Bike_sharing
+holiday;Linear_regression;8.0;Bike_sharing
+weekday;Linear_regression;9.0;Bike_sharing
+workingday;Linear_regression;11.0;Bike_sharing
+weathersit;Linear_regression;10.0;Bike_sharing
+temp;Linear_regression;5.0;Bike_sharing
+atemp;Linear_regression;1.0;Bike_sharing
+hum;Linear_regression;2.0;Bike_sharing
+windspeed;Linear_regression;7.0;Bike_sharing
+season;Ridge_regression;6.0;Bike_sharing
+yr;Ridge_regression;5.0;Bike_sharing
+mnth;Ridge_regression;12.0;Bike_sharing
+hr;Ridge_regression;3.0;Bike_sharing
+holiday;Ridge_regression;8.0;Bike_sharing
+weekday;Ridge_regression;9.5;Bike_sharing
+workingday;Ridge_regression;11.0;Bike_sharing
+weathersit;Ridge_regression;9.5;Bike_sharing
+temp;Ridge_regression;4.0;Bike_sharing
+atemp;Ridge_regression;2.0;Bike_sharing
+hum;Ridge_regression;1.0;Bike_sharing
+windspeed;Ridge_regression;7.0;Bike_sharing
+season;Lasso_regression;6.0;Bike_sharing
+yr;Lasso_regression;4.0;Bike_sharing
+mnth;Lasso_regression;12.0;Bike_sharing
+hr;Lasso_regression;3.0;Bike_sharing
+holiday;Lasso_regression;8.0;Bike_sharing
+weekday;Lasso_regression;9.0;Bike_sharing
+workingday;Lasso_regression;11.0;Bike_sharing
+weathersit;Lasso_regression;10.0;Bike_sharing
+temp;Lasso_regression;5.0;Bike_sharing
+atemp;Lasso_regression;1.0;Bike_sharing
+hum;Lasso_regression;2.0;Bike_sharing
+windspeed;Lasso_regression;7.0;Bike_sharing
+property_type;Linear_regression;16.5;Airbnb_price
+room_type;Linear_regression;1.0;Airbnb_price
+amenities;Linear_regression;16.5;Airbnb_price
+accommodates;Linear_regression;5.0;Airbnb_price
+bathrooms;Linear_regression;2.0;Airbnb_price
+bed_type;Linear_regression;13.0;Airbnb_price
+cancellation_policy;Linear_regression;11.0;Airbnb_price
+cleaning_fee;Linear_regression;9.5;Airbnb_price
+city;Linear_regression;6.5;Airbnb_price
+host_has_profile_pic;Linear_regression;4.0;Airbnb_price
+host_identity_verified;Linear_regression;13.0;Airbnb_price
+instant_bookable;Linear_regression;6.5;Airbnb_price
+latitude;Linear_regression;9.5;Airbnb_price
+longitude;Linear_regression;13.0;Airbnb_price
+number_of_reviews;Linear_regression;16.5;Airbnb_price
+review_scores_rating;Linear_regression;16.5;Airbnb_price
+bedrooms;Linear_regression;3.0;Airbnb_price
+beds;Linear_regression;8.0;Airbnb_price
+property_type;Ridge_regression;16.5;Airbnb_price
+room_type;Ridge_regression;1.0;Airbnb_price
+amenities;Ridge_regression;16.5;Airbnb_price
+accommodates;Ridge_regression;5.0;Airbnb_price
+bathrooms;Ridge_regression;2.0;Airbnb_price
+bed_type;Ridge_regression;13.0;Airbnb_price
+cancellation_policy;Ridge_regression;11.0;Airbnb_price
+cleaning_fee;Ridge_regression;9.5;Airbnb_price
+city;Ridge_regression;6.5;Airbnb_price
+host_has_profile_pic;Ridge_regression;4.0;Airbnb_price
+host_identity_verified;Ridge_regression;13.0;Airbnb_price
+instant_bookable;Ridge_regression;6.5;Airbnb_price
+latitude;Ridge_regression;9.5;Airbnb_price
+longitude;Ridge_regression;13.0;Airbnb_price
+number_of_reviews;Ridge_regression;16.5;Airbnb_price
+review_scores_rating;Ridge_regression;16.5;Airbnb_price
+bedrooms;Ridge_regression;3.0;Airbnb_price
+beds;Ridge_regression;8.0;Airbnb_price
+property_type;Lasso_regression;14.5;Airbnb_price
+room_type;Lasso_regression;1.0;Airbnb_price
+amenities;Lasso_regression;14.5;Airbnb_price
+accommodates;Lasso_regression;4.0;Airbnb_price
+bathrooms;Lasso_regression;2.0;Airbnb_price
+bed_type;Lasso_regression;14.5;Airbnb_price
+cancellation_policy;Lasso_regression;14.5;Airbnb_price
+cleaning_fee;Lasso_regression;9.5;Airbnb_price
+city;Lasso_regression;5.0;Airbnb_price
+host_has_profile_pic;Lasso_regression;14.5;Airbnb_price
+host_identity_verified;Lasso_regression;14.5;Airbnb_price
+instant_bookable;Lasso_regression;7.0;Airbnb_price
+latitude;Lasso_regression;6.0;Airbnb_price
+longitude;Lasso_regression;9.5;Airbnb_price
+number_of_reviews;Lasso_regression;14.5;Airbnb_price
+review_scores_rating;Lasso_regression;14.5;Airbnb_price
+bedrooms;Lasso_regression;3.0;Airbnb_price
+beds;Lasso_regression;8.0;Airbnb_price
+zipcode;Linear_regression;11.0;austin_housing
+latitude;Linear_regression;16.0;austin_housing
+longitude;Linear_regression;9.5;austin_housing
+propertyTaxRate;Linear_regression;9.5;austin_housing
+garageSpaces;Linear_regression;7.0;austin_housing
+hasAssociation;Linear_regression;3.0;austin_housing
+hasGarage;Linear_regression;22.5;austin_housing
+hasSpa;Linear_regression;19.5;austin_housing
+hasView;Linear_regression;22.5;austin_housing
+homeType;Linear_regression;22.5;austin_housing
+parkingSpaces;Linear_regression;8.0;austin_housing
+yearBuilt;Linear_regression;13.0;austin_housing
+numPriceChanges;Linear_regression;13.0;austin_housing
+numOfAppliances;Linear_regression;26.5;austin_housing
+numOfParkingFeatures;Linear_regression;16.0;austin_housing
+numOfPatioAndPorchFeatures;Linear_regression;18.0;austin_housing
+numOfSecurityFeatures;Linear_regression;26.5;austin_housing
+numOfWindowFeatures;Linear_regression;25.0;austin_housing
+lotSizeSqFt;Linear_regression;13.0;austin_housing
+livingAreaSqFt;Linear_regression;1.0;austin_housing
+avgSchoolDistance;Linear_regression;22.5;austin_housing
+avgSchoolRating;Linear_regression;5.5;austin_housing
+avgSchoolSize;Linear_regression;16.0;austin_housing
+MedianStudentsPerTeacher;Linear_regression;19.5;austin_housing
+numOfBathrooms;Linear_regression;3.0;austin_housing
+numOfBedrooms;Linear_regression;5.5;austin_housing
+numOfStories;Linear_regression;3.0;austin_housing
+zipcode;Ridge_regression;11.0;austin_housing
+latitude;Ridge_regression;16.0;austin_housing
+longitude;Ridge_regression;9.5;austin_housing
+propertyTaxRate;Ridge_regression;9.5;austin_housing
+garageSpaces;Ridge_regression;7.5;austin_housing
+hasAssociation;Ridge_regression;3.0;austin_housing
+hasGarage;Ridge_regression;22.0;austin_housing
+hasSpa;Ridge_regression;22.0;austin_housing
+hasView;Ridge_regression;22.0;austin_housing
+homeType;Ridge_regression;22.0;austin_housing
+parkingSpaces;Ridge_regression;7.5;austin_housing
+yearBuilt;Ridge_regression;13.0;austin_housing
+numPriceChanges;Ridge_regression;13.0;austin_housing
+numOfAppliances;Ridge_regression;26.5;austin_housing
+numOfParkingFeatures;Ridge_regression;16.0;austin_housing
+numOfPatioAndPorchFeatures;Ridge_regression;18.0;austin_housing
+numOfSecurityFeatures;Ridge_regression;26.5;austin_housing
+numOfWindowFeatures;Ridge_regression;25.0;austin_housing
+lotSizeSqFt;Ridge_regression;13.0;austin_housing
+livingAreaSqFt;Ridge_regression;1.0;austin_housing
+avgSchoolDistance;Ridge_regression;22.0;austin_housing
+avgSchoolRating;Ridge_regression;5.5;austin_housing
+avgSchoolSize;Ridge_regression;16.0;austin_housing
+MedianStudentsPerTeacher;Ridge_regression;19.0;austin_housing
+numOfBathrooms;Ridge_regression;3.0;austin_housing
+numOfBedrooms;Ridge_regression;5.5;austin_housing
+numOfStories;Ridge_regression;3.0;austin_housing
+zipcode;Lasso_regression;8.0;austin_housing
+latitude;Lasso_regression;15.5;austin_housing
+longitude;Lasso_regression;9.0;austin_housing
+propertyTaxRate;Lasso_regression;7.0;austin_housing
+garageSpaces;Lasso_regression;25.0;austin_housing
+hasAssociation;Lasso_regression;2.0;austin_housing
+hasGarage;Lasso_regression;25.0;austin_housing
+hasSpa;Lasso_regression;17.5;austin_housing
+hasView;Lasso_regression;21.0;austin_housing
+homeType;Lasso_regression;21.0;austin_housing
+parkingSpaces;Lasso_regression;25.0;austin_housing
+yearBuilt;Lasso_regression;10.5;austin_housing
+numPriceChanges;Lasso_regression;10.5;austin_housing
+numOfAppliances;Lasso_regression;25.0;austin_housing
+numOfParkingFeatures;Lasso_regression;15.5;austin_housing
+numOfPatioAndPorchFeatures;Lasso_regression;14.0;austin_housing
+numOfSecurityFeatures;Lasso_regression;25.0;austin_housing
+numOfWindowFeatures;Lasso_regression;21.0;austin_housing
+lotSizeSqFt;Lasso_regression;12.5;austin_housing
+livingAreaSqFt;Lasso_regression;1.0;austin_housing
+avgSchoolDistance;Lasso_regression;17.5;austin_housing
+avgSchoolRating;Lasso_regression;6.0;austin_housing
+avgSchoolSize;Lasso_regression;12.5;austin_housing
+MedianStudentsPerTeacher;Lasso_regression;19.0;austin_housing
+numOfBathrooms;Lasso_regression;3.0;austin_housing
+numOfBedrooms;Lasso_regression;5.0;austin_housing
+numOfStories;Lasso_regression;4.0;austin_housing
+EPA Fuel Economy Est - City (MPG);Linear_regression;25.5;cars
+Engine;Linear_regression;13.5;cars
+Drivetrain;Linear_regression;13.5;cars
+Passenger Capacity;Linear_regression;25.5;cars
+Passenger Doors;Linear_regression;9.0;cars
+Wheelbase (in);Linear_regression;25.5;cars
+SAE Net Torque @ RPM;Linear_regression;25.5;cars
+Fuel System;Linear_regression;25.5;cars
+SAE Net Horsepower @ RPM;Linear_regression;25.5;cars
+Displacement;Linear_regression;4.0;cars
+Trans Description Cont.;Linear_regression;13.5;cars
+Trans Type;Linear_regression;9.0;cars
+Air Bag-Side Head-Front;Linear_regression;9.0;cars
+Air Bag-Side Head-Rear;Linear_regression;13.5;cars
+Child Safety Rear Door Locks;Linear_regression;6.0;cars
+Daytime Running Lights;Linear_regression;6.0;cars
+Traction Control;Linear_regression;6.0;cars
+Night Vision;Linear_regression;1.0;cars
+Rollover Protection Bars;Linear_regression;3.0;cars
+Basic Miles/km;Linear_regression;25.5;cars
+Basic Years;Linear_regression;2.0;cars
+Corrosion Miles/km;Linear_regression;25.5;cars
+Corrosion Years;Linear_regression;25.5;cars
+Drivetrain Miles/km;Linear_regression;25.5;cars
+Drivetrain Years;Linear_regression;13.5;cars
+Turning Diameter - Curb to Curb (ft);Linear_regression;25.5;cars
+Front Wheel Material;Linear_regression;25.5;cars
+Roadside Assistance Miles/km;Linear_regression;25.5;cars
+Manufacturer;Linear_regression;25.5;cars
+Model year;Linear_regression;25.5;cars
+Category;Linear_regression;13.5;cars
+Front tire width;Linear_regression;25.5;cars
+Front tire aspect ratio;Linear_regression;25.5;cars
+Front tire rim size;Linear_regression;25.5;cars
+EPA Fuel Economy Est - City (MPG);Ridge_regression;26.5;cars
+Engine;Ridge_regression;14.5;cars
+Drivetrain;Ridge_regression;14.5;cars
+Passenger Capacity;Ridge_regression;26.5;cars
+Passenger Doors;Ridge_regression;9.0;cars
+Wheelbase (in);Ridge_regression;26.5;cars
+SAE Net Torque @ RPM;Ridge_regression;26.5;cars
+Fuel System;Ridge_regression;26.5;cars
+SAE Net Horsepower @ RPM;Ridge_regression;26.5;cars
+Displacement;Ridge_regression;4.0;cars
+Trans Description Cont.;Ridge_regression;14.5;cars
+Trans Type;Ridge_regression;9.0;cars
+Air Bag-Side Head-Front;Ridge_regression;9.0;cars
+Air Bag-Side Head-Rear;Ridge_regression;14.5;cars
+Child Safety Rear Door Locks;Ridge_regression;6.0;cars
+Daytime Running Lights;Ridge_regression;6.0;cars
+Traction Control;Ridge_regression;6.0;cars
+Night Vision;Ridge_regression;1.0;cars
+Rollover Protection Bars;Ridge_regression;3.0;cars
+Basic Miles/km;Ridge_regression;26.5;cars
+Basic Years;Ridge_regression;2.0;cars
+Corrosion Miles/km;Ridge_regression;26.5;cars
+Corrosion Years;Ridge_regression;26.5;cars
+Drivetrain Miles/km;Ridge_regression;26.5;cars
+Drivetrain Years;Ridge_regression;14.5;cars
+Turning Diameter - Curb to Curb (ft);Ridge_regression;26.5;cars
+Front Wheel Material;Ridge_regression;26.5;cars
+Roadside Assistance Miles/km;Ridge_regression;26.5;cars
+Manufacturer;Ridge_regression;26.5;cars
+Model year;Ridge_regression;14.5;cars
+Category;Ridge_regression;14.5;cars
+Front tire width;Ridge_regression;26.5;cars
+Front tire aspect ratio;Ridge_regression;14.5;cars
+Front tire rim size;Ridge_regression;26.5;cars
+EPA Fuel Economy Est - City (MPG);Lasso_regression;25.5;cars
+Engine;Lasso_regression;13.5;cars
+Drivetrain;Lasso_regression;13.5;cars
+Passenger Capacity;Lasso_regression;25.5;cars
+Passenger Doors;Lasso_regression;9.0;cars
+Wheelbase (in);Lasso_regression;25.5;cars
+SAE Net Torque @ RPM;Lasso_regression;25.5;cars
+Fuel System;Lasso_regression;25.5;cars
+SAE Net Horsepower @ RPM;Lasso_regression;25.5;cars
+Displacement;Lasso_regression;4.0;cars
+Trans Description Cont.;Lasso_regression;13.5;cars
+Trans Type;Lasso_regression;9.0;cars
+Air Bag-Side Head-Front;Lasso_regression;9.0;cars
+Air Bag-Side Head-Rear;Lasso_regression;13.5;cars
+Child Safety Rear Door Locks;Lasso_regression;6.0;cars
+Daytime Running Lights;Lasso_regression;6.0;cars
+Traction Control;Lasso_regression;6.0;cars
+Night Vision;Lasso_regression;1.0;cars
+Rollover Protection Bars;Lasso_regression;3.0;cars
+Basic Miles/km;Lasso_regression;25.5;cars
+Basic Years;Lasso_regression;2.0;cars
+Corrosion Miles/km;Lasso_regression;25.5;cars
+Corrosion Years;Lasso_regression;25.5;cars
+Drivetrain Miles/km;Lasso_regression;25.5;cars
+Drivetrain Years;Lasso_regression;13.5;cars
+Turning Diameter - Curb to Curb (ft);Lasso_regression;25.5;cars
+Front Wheel Material;Lasso_regression;25.5;cars
+Roadside Assistance Miles/km;Lasso_regression;25.5;cars
+Manufacturer;Lasso_regression;25.5;cars
+Model year;Lasso_regression;25.5;cars
+Category;Lasso_regression;13.5;cars
+Front tire width;Lasso_regression;25.5;cars
+Front tire aspect ratio;Lasso_regression;25.5;cars
+Front tire rim size;Lasso_regression;25.5;cars

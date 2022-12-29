@@ -1,0 +1,13 @@
+feature_name;method;feature_rank;dataset
+season;CART;7.0;Bike_sharing
+yr;CART;3.0;Bike_sharing
+mnth;CART;9.5;Bike_sharing
+hr;CART;1.0;Bike_sharing
+holiday;CART;12.0;Bike_sharing
+weekday;CART;9.5;Bike_sharing
+workingday;CART;4.0;Bike_sharing
+weathersit;CART;7.0;Bike_sharing
+temp;CART;2.0;Bike_sharing
+atemp;CART;7.0;Bike_sharing
+hum;CART;5.0;Bike_sharing
+windspeed;CART;11.0;Bike_sharing

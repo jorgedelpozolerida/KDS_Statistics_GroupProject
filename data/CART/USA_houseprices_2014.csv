@@ -1,0 +1,13 @@
+feature_name;method;feature_rank;dataset
+bedrooms;CART;11.5;USA_houseprices_2014
+bathrooms;CART;3.0;USA_houseprices_2014
+sqft_living;CART;2.0;USA_houseprices_2014
+sqft_lot;CART;4.0;USA_houseprices_2014
+floors;CART;11.5;USA_houseprices_2014
+waterfront;CART;8.0;USA_houseprices_2014
+view;CART;9.5;USA_houseprices_2014
+condition;CART;1.0;USA_houseprices_2014
+sqft_basement;CART;9.5;USA_houseprices_2014
+year_since_1st_renovation;CART;5.0;USA_houseprices_2014
+city;CART;7.0;USA_houseprices_2014
+statezip;CART;6.0;USA_houseprices_2014

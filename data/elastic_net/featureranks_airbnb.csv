@@ -5,11 +5,11 @@ amenities;13.0;elastic_net;Airbnb_price
 accommodates;4.0;elastic_net;Airbnb_price
 bathrooms;3.0;elastic_net;Airbnb_price
 bed_type;14.0;elastic_net;Airbnb_price
-cancellation_policy;14.0;elastic_net;Airbnb_price
-cleaning_fee;14.0;elastic_net;Airbnb_price
+cancellation_policy;15.0;elastic_net;Airbnb_price
+cleaning_fee;16.0;elastic_net;Airbnb_price
 city;5.0;elastic_net;Airbnb_price
-host_has_profile_pic;14.0;elastic_net;Airbnb_price
-host_identity_verified;14.0;elastic_net;Airbnb_price
+host_has_profile_pic;17.0;elastic_net;Airbnb_price
+host_identity_verified;18.0;elastic_net;Airbnb_price
 instant_bookable;8.0;elastic_net;Airbnb_price
 latitude;6.0;elastic_net;Airbnb_price
 longitude;9.0;elastic_net;Airbnb_price

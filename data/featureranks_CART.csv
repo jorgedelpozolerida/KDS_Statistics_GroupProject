@@ -56,40 +56,40 @@ temp;CART;2.0;Bike_sharing
 atemp;CART;7.0;Bike_sharing
 hum;CART;5.0;Bike_sharing
 windspeed;CART;11.0;Bike_sharing
-EPA Fuel Economy Est - City (MPG);CART;26.0;cars
-Engine;CART;26.0;cars
-Drivetrain;CART;26.0;cars
-Passenger Capacity;CART;12.0;cars
-Passenger Doors;CART;26.0;cars
-Wheelbase (in);CART;5.5;cars
-SAE Net Torque @ RPM;CART;5.5;cars
-Fuel System;CART;26.0;cars
-SAE Net Horsepower @ RPM;CART;1.0;cars
-Displacement;CART;3.0;cars
-Trans Description Cont.;CART;26.0;cars
-Trans Type;CART;12.0;cars
-Air Bag-Side Head-Front;CART;26.0;cars
-Air Bag-Side Head-Rear;CART;26.0;cars
-Child Safety Rear Door Locks;CART;26.0;cars
-Daytime Running Lights;CART;26.0;cars
-Traction Control;CART;12.0;cars
-Night Vision;CART;26.0;cars
-Rollover Protection Bars;CART;26.0;cars
-Basic Miles/km;CART;2.0;cars
-Basic Years;CART;12.0;cars
-Corrosion Miles/km;CART;26.0;cars
-Corrosion Years;CART;26.0;cars
-Drivetrain Miles/km;CART;12.0;cars
-Drivetrain Years;CART;26.0;cars
-Turning Diameter - Curb to Curb (ft);CART;12.0;cars
-Front Wheel Material;CART;12.0;cars
-Roadside Assistance Miles/km;CART;26.0;cars
-Manufacturer;CART;4.0;cars
-Model year;CART;12.0;cars
-Category;CART;26.0;cars
-Front tire width;CART;12.0;cars
+EPA Fuel Economy Est - City (MPG);CART;10.0;cars
+Engine;CART;28.0;cars
+Drivetrain;CART;16.5;cars
+Passenger Capacity;CART;21.0;cars
+Passenger Doors;CART;33.0;cars
+Wheelbase (in);CART;4.0;cars
+SAE Net Torque @ RPM;CART;14.0;cars
+Fuel System;CART;9.0;cars
+SAE Net Horsepower @ RPM;CART;2.0;cars
+Displacement;CART;7.0;cars
+Trans Description Cont.;CART;21.0;cars
+Trans Type;CART;28.0;cars
+Air Bag-Side Head-Front;CART;28.0;cars
+Air Bag-Side Head-Rear;CART;28.0;cars
+Child Safety Rear Door Locks;CART;21.0;cars
+Daytime Running Lights;CART;28.0;cars
+Traction Control;CART;21.0;cars
+Night Vision;CART;33.0;cars
+Rollover Protection Bars;CART;28.0;cars
+Basic Miles/km;CART;1.0;cars
+Basic Years;CART;16.5;cars
+Corrosion Miles/km;CART;33.0;cars
+Corrosion Years;CART;21.0;cars
+Drivetrain Miles/km;CART;14.0;cars
+Drivetrain Years;CART;5.0;cars
+Turning Diameter - Curb to Curb (ft);CART;11.0;cars
+Front Wheel Material;CART;28.0;cars
+Roadside Assistance Miles/km;CART;21.0;cars
+Manufacturer;CART;6.0;cars
+Model year;CART;3.0;cars
+Category;CART;21.0;cars
+Front tire width;CART;14.0;cars
 Front tire aspect ratio;CART;12.0;cars
-Front tire rim size;CART;12.0;cars
+Front tire rim size;CART;8.0;cars
 bedrooms;CART;11.0;USA_houseprices_2014
 bathrooms;CART;4.0;USA_houseprices_2014
 sqft_living;CART;2.0;USA_houseprices_2014

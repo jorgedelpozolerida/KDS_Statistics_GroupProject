@@ -3,12 +3,12 @@ bedrooms;3.0;elastic_net;USA_housing
 bathrooms;9.0;elastic_net;USA_housing
 sqft_living;1.0;elastic_net;USA_housing
 sqft_lot;2.0;elastic_net;USA_housing
-floors;12.0;elastic_net;USA_housing
+floors;11.0;elastic_net;USA_housing
 waterfront;4.0;elastic_net;USA_housing
 view;5.0;elastic_net;USA_housing
-condition;6.0;elastic_net;USA_housing
-sqft_basement;7.0;elastic_net;USA_housing
-year_since_1st_renovation;13.0;elastic_net;USA_housing
+condition;7.0;elastic_net;USA_housing
+sqft_basement;6.0;elastic_net;USA_housing
+year_since_1st_renovation;12.0;elastic_net;USA_housing
 city;8.0;elastic_net;USA_housing
 statezip;10.0;elastic_net;USA_housing
-have_basement;11.0;elastic_net;USA_housing
+have_basement;13.0;elastic_net;USA_housing

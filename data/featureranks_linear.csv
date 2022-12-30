@@ -3,41 +3,41 @@ bedrooms;Linear_regression;3.0;USA_houseprices_2014
 bathrooms;Linear_regression;9.0;USA_houseprices_2014
 sqft_living;Linear_regression;1.0;USA_houseprices_2014
 sqft_lot;Linear_regression;2.0;USA_houseprices_2014
-floors;Linear_regression;12.5;USA_houseprices_2014
+floors;Linear_regression;11.5;USA_houseprices_2014
 waterfront;Linear_regression;4.0;USA_houseprices_2014
-view;Linear_regression;6.0;USA_houseprices_2014
-condition;Linear_regression;6.0;USA_houseprices_2014
+view;Linear_regression;5.0;USA_houseprices_2014
+condition;Linear_regression;7.0;USA_houseprices_2014
 sqft_basement;Linear_regression;6.0;USA_houseprices_2014
-year_since_1st_renovation;Linear_regression;12.5;USA_houseprices_2014
+year_since_1st_renovation;Linear_regression;11.5;USA_houseprices_2014
 city;Linear_regression;8.0;USA_houseprices_2014
-statezip;Linear_regression;10.5;USA_houseprices_2014
-have_basement;Linear_regression;10.5;USA_houseprices_2014
-bedrooms;Ridge_regression;10.0;USA_houseprices_2014
+statezip;Linear_regression;11.5;USA_houseprices_2014
+have_basement;Linear_regression;11.5;USA_houseprices_2014
+bedrooms;Ridge_regression;12.0;USA_houseprices_2014
 bathrooms;Ridge_regression;2.0;USA_houseprices_2014
 sqft_living;Ridge_regression;1.0;USA_houseprices_2014
-sqft_lot;Ridge_regression;8.0;USA_houseprices_2014
-floors;Ridge_regression;10.0;USA_houseprices_2014
-waterfront;Ridge_regression;3.0;USA_houseprices_2014
-view;Ridge_regression;4.0;USA_houseprices_2014
+sqft_lot;Ridge_regression;9.0;USA_houseprices_2014
+floors;Ridge_regression;7.5;USA_houseprices_2014
+waterfront;Ridge_regression;4.0;USA_houseprices_2014
+view;Ridge_regression;3.0;USA_houseprices_2014
 condition;Ridge_regression;6.0;USA_houseprices_2014
 sqft_basement;Ridge_regression;5.0;USA_houseprices_2014
-year_since_1st_renovation;Ridge_regression;12.0;USA_houseprices_2014
-city;Ridge_regression;7.0;USA_houseprices_2014
+year_since_1st_renovation;Ridge_regression;11.0;USA_houseprices_2014
+city;Ridge_regression;7.5;USA_houseprices_2014
 statezip;Ridge_regression;10.0;USA_houseprices_2014
 have_basement;Ridge_regression;13.0;USA_houseprices_2014
 bedrooms;Lasso_regression;3.0;USA_houseprices_2014
 bathrooms;Lasso_regression;9.0;USA_houseprices_2014
 sqft_living;Lasso_regression;1.0;USA_houseprices_2014
 sqft_lot;Lasso_regression;2.0;USA_houseprices_2014
-floors;Lasso_regression;12.5;USA_houseprices_2014
+floors;Lasso_regression;11.5;USA_houseprices_2014
 waterfront;Lasso_regression;4.0;USA_houseprices_2014
-view;Lasso_regression;6.0;USA_houseprices_2014
-condition;Lasso_regression;6.0;USA_houseprices_2014
+view;Lasso_regression;5.0;USA_houseprices_2014
+condition;Lasso_regression;7.0;USA_houseprices_2014
 sqft_basement;Lasso_regression;6.0;USA_houseprices_2014
-year_since_1st_renovation;Lasso_regression;12.5;USA_houseprices_2014
+year_since_1st_renovation;Lasso_regression;11.5;USA_houseprices_2014
 city;Lasso_regression;8.0;USA_houseprices_2014
-statezip;Lasso_regression;10.5;USA_houseprices_2014
-have_basement;Lasso_regression;10.5;USA_houseprices_2014
+statezip;Lasso_regression;11.5;USA_houseprices_2014
+have_basement;Lasso_regression;11.5;USA_houseprices_2014
 season;Linear_regression;6.0;Bike_sharing
 yr;Linear_regression;4.0;Bike_sharing
 mnth;Linear_regression;12.0;Bike_sharing
@@ -209,105 +209,105 @@ MedianStudentsPerTeacher;Lasso_regression;19.0;austin_housing
 numOfBathrooms;Lasso_regression;3.0;austin_housing
 numOfBedrooms;Lasso_regression;5.0;austin_housing
 numOfStories;Lasso_regression;4.0;austin_housing
-EPA Fuel Economy Est - City (MPG);Linear_regression;25.5;cars
-Engine;Linear_regression;13.5;cars
-Drivetrain;Linear_regression;13.5;cars
-Passenger Capacity;Linear_regression;25.5;cars
-Passenger Doors;Linear_regression;9.0;cars
-Wheelbase (in);Linear_regression;25.5;cars
-SAE Net Torque @ RPM;Linear_regression;25.5;cars
-Fuel System;Linear_regression;25.5;cars
-SAE Net Horsepower @ RPM;Linear_regression;25.5;cars
-Displacement;Linear_regression;4.0;cars
-Trans Description Cont.;Linear_regression;13.5;cars
-Trans Type;Linear_regression;9.0;cars
-Air Bag-Side Head-Front;Linear_regression;9.0;cars
-Air Bag-Side Head-Rear;Linear_regression;13.5;cars
-Child Safety Rear Door Locks;Linear_regression;6.0;cars
-Daytime Running Lights;Linear_regression;6.0;cars
-Traction Control;Linear_regression;6.0;cars
-Night Vision;Linear_regression;1.0;cars
-Rollover Protection Bars;Linear_regression;3.0;cars
-Basic Miles/km;Linear_regression;25.5;cars
-Basic Years;Linear_regression;2.0;cars
-Corrosion Miles/km;Linear_regression;25.5;cars
-Corrosion Years;Linear_regression;25.5;cars
-Drivetrain Miles/km;Linear_regression;25.5;cars
-Drivetrain Years;Linear_regression;13.5;cars
-Turning Diameter - Curb to Curb (ft);Linear_regression;25.5;cars
-Front Wheel Material;Linear_regression;25.5;cars
-Roadside Assistance Miles/km;Linear_regression;25.5;cars
-Manufacturer;Linear_regression;25.5;cars
-Model year;Linear_regression;25.5;cars
-Category;Linear_regression;13.5;cars
-Front tire width;Linear_regression;25.5;cars
-Front tire aspect ratio;Linear_regression;25.5;cars
-Front tire rim size;Linear_regression;25.5;cars
-EPA Fuel Economy Est - City (MPG);Ridge_regression;26.5;cars
-Engine;Ridge_regression;14.5;cars
-Drivetrain;Ridge_regression;14.5;cars
-Passenger Capacity;Ridge_regression;26.5;cars
-Passenger Doors;Ridge_regression;9.0;cars
-Wheelbase (in);Ridge_regression;26.5;cars
-SAE Net Torque @ RPM;Ridge_regression;26.5;cars
-Fuel System;Ridge_regression;26.5;cars
-SAE Net Horsepower @ RPM;Ridge_regression;26.5;cars
-Displacement;Ridge_regression;4.0;cars
-Trans Description Cont.;Ridge_regression;14.5;cars
-Trans Type;Ridge_regression;9.0;cars
-Air Bag-Side Head-Front;Ridge_regression;9.0;cars
-Air Bag-Side Head-Rear;Ridge_regression;14.5;cars
-Child Safety Rear Door Locks;Ridge_regression;6.0;cars
-Daytime Running Lights;Ridge_regression;6.0;cars
-Traction Control;Ridge_regression;6.0;cars
-Night Vision;Ridge_regression;1.0;cars
-Rollover Protection Bars;Ridge_regression;3.0;cars
-Basic Miles/km;Ridge_regression;26.5;cars
-Basic Years;Ridge_regression;2.0;cars
-Corrosion Miles/km;Ridge_regression;26.5;cars
-Corrosion Years;Ridge_regression;26.5;cars
-Drivetrain Miles/km;Ridge_regression;26.5;cars
-Drivetrain Years;Ridge_regression;14.5;cars
-Turning Diameter - Curb to Curb (ft);Ridge_regression;26.5;cars
-Front Wheel Material;Ridge_regression;26.5;cars
-Roadside Assistance Miles/km;Ridge_regression;26.5;cars
-Manufacturer;Ridge_regression;26.5;cars
-Model year;Ridge_regression;14.5;cars
-Category;Ridge_regression;14.5;cars
-Front tire width;Ridge_regression;26.5;cars
-Front tire aspect ratio;Ridge_regression;14.5;cars
-Front tire rim size;Ridge_regression;26.5;cars
-EPA Fuel Economy Est - City (MPG);Lasso_regression;25.5;cars
-Engine;Lasso_regression;13.5;cars
-Drivetrain;Lasso_regression;13.5;cars
-Passenger Capacity;Lasso_regression;25.5;cars
-Passenger Doors;Lasso_regression;9.0;cars
-Wheelbase (in);Lasso_regression;25.5;cars
-SAE Net Torque @ RPM;Lasso_regression;25.5;cars
-Fuel System;Lasso_regression;25.5;cars
-SAE Net Horsepower @ RPM;Lasso_regression;25.5;cars
-Displacement;Lasso_regression;4.0;cars
-Trans Description Cont.;Lasso_regression;13.5;cars
-Trans Type;Lasso_regression;9.0;cars
-Air Bag-Side Head-Front;Lasso_regression;9.0;cars
-Air Bag-Side Head-Rear;Lasso_regression;13.5;cars
-Child Safety Rear Door Locks;Lasso_regression;6.0;cars
-Daytime Running Lights;Lasso_regression;6.0;cars
-Traction Control;Lasso_regression;6.0;cars
-Night Vision;Lasso_regression;1.0;cars
-Rollover Protection Bars;Lasso_regression;3.0;cars
-Basic Miles/km;Lasso_regression;25.5;cars
-Basic Years;Lasso_regression;2.0;cars
-Corrosion Miles/km;Lasso_regression;25.5;cars
-Corrosion Years;Lasso_regression;25.5;cars
-Drivetrain Miles/km;Lasso_regression;25.5;cars
-Drivetrain Years;Lasso_regression;13.5;cars
-Turning Diameter - Curb to Curb (ft);Lasso_regression;25.5;cars
-Front Wheel Material;Lasso_regression;25.5;cars
-Roadside Assistance Miles/km;Lasso_regression;25.5;cars
-Manufacturer;Lasso_regression;25.5;cars
-Model year;Lasso_regression;25.5;cars
-Category;Lasso_regression;13.5;cars
-Front tire width;Lasso_regression;25.5;cars
-Front tire aspect ratio;Lasso_regression;25.5;cars
-Front tire rim size;Lasso_regression;25.5;cars
+EPA Fuel Economy Est - City (MPG);Linear_regression;22.0;cars
+Engine;Linear_regression;8.0;cars
+Drivetrain;Linear_regression;28.0;cars
+Passenger Capacity;Linear_regression;18.0;cars
+Passenger Doors;Linear_regression;13.5;cars
+Wheelbase (in);Linear_regression;6.0;cars
+SAE Net Torque @ RPM;Linear_regression;5.0;cars
+Fuel System;Linear_regression;22.0;cars
+SAE Net Horsepower @ RPM;Linear_regression;2.0;cars
+Displacement;Linear_regression;18.0;cars
+Trans Description Cont.;Linear_regression;28.0;cars
+Trans Type;Linear_regression;7.0;cars
+Air Bag-Side Head-Front;Linear_regression;28.0;cars
+Air Bag-Side Head-Rear;Linear_regression;33.0;cars
+Child Safety Rear Door Locks;Linear_regression;18.0;cars
+Daytime Running Lights;Linear_regression;33.0;cars
+Traction Control;Linear_regression;13.5;cars
+Night Vision;Linear_regression;13.5;cars
+Rollover Protection Bars;Linear_regression;22.0;cars
+Basic Miles/km;Linear_regression;1.0;cars
+Basic Years;Linear_regression;3.0;cars
+Corrosion Miles/km;Linear_regression;9.5;cars
+Corrosion Years;Linear_regression;22.0;cars
+Drivetrain Miles/km;Linear_regression;28.0;cars
+Drivetrain Years;Linear_regression;4.0;cars
+Turning Diameter - Curb to Curb (ft);Linear_regression;13.5;cars
+Front Wheel Material;Linear_regression;28.0;cars
+Roadside Assistance Miles/km;Linear_regression;33.0;cars
+Manufacturer;Linear_regression;22.0;cars
+Model year;Linear_regression;9.5;cars
+Category;Linear_regression;28.0;cars
+Front tire width;Linear_regression;13.5;cars
+Front tire aspect ratio;Linear_regression;13.5;cars
+Front tire rim size;Linear_regression;28.0;cars
+EPA Fuel Economy Est - City (MPG);Ridge_regression;18.5;cars
+Engine;Ridge_regression;8.0;cars
+Drivetrain;Ridge_regression;28.0;cars
+Passenger Capacity;Ridge_regression;15.0;cars
+Passenger Doors;Ridge_regression;15.0;cars
+Wheelbase (in);Ridge_regression;6.0;cars
+SAE Net Torque @ RPM;Ridge_regression;5.0;cars
+Fuel System;Ridge_regression;22.5;cars
+SAE Net Horsepower @ RPM;Ridge_regression;2.0;cars
+Displacement;Ridge_regression;22.5;cars
+Trans Description Cont.;Ridge_regression;28.0;cars
+Trans Type;Ridge_regression;7.0;cars
+Air Bag-Side Head-Front;Ridge_regression;28.0;cars
+Air Bag-Side Head-Rear;Ridge_regression;32.5;cars
+Child Safety Rear Door Locks;Ridge_regression;18.5;cars
+Daytime Running Lights;Ridge_regression;32.5;cars
+Traction Control;Ridge_regression;15.0;cars
+Night Vision;Ridge_regression;15.0;cars
+Rollover Protection Bars;Ridge_regression;22.5;cars
+Basic Miles/km;Ridge_regression;1.0;cars
+Basic Years;Ridge_regression;4.0;cars
+Corrosion Miles/km;Ridge_regression;11.0;cars
+Corrosion Years;Ridge_regression;22.5;cars
+Drivetrain Miles/km;Ridge_regression;32.5;cars
+Drivetrain Years;Ridge_regression;3.0;cars
+Turning Diameter - Curb to Curb (ft);Ridge_regression;11.0;cars
+Front Wheel Material;Ridge_regression;28.0;cars
+Roadside Assistance Miles/km;Ridge_regression;32.5;cars
+Manufacturer;Ridge_regression;22.5;cars
+Model year;Ridge_regression;11.0;cars
+Category;Ridge_regression;22.5;cars
+Front tire width;Ridge_regression;15.0;cars
+Front tire aspect ratio;Ridge_regression;9.0;cars
+Front tire rim size;Ridge_regression;28.0;cars
+EPA Fuel Economy Est - City (MPG);Lasso_regression;22.0;cars
+Engine;Lasso_regression;8.0;cars
+Drivetrain;Lasso_regression;28.0;cars
+Passenger Capacity;Lasso_regression;18.0;cars
+Passenger Doors;Lasso_regression;13.5;cars
+Wheelbase (in);Lasso_regression;6.0;cars
+SAE Net Torque @ RPM;Lasso_regression;5.0;cars
+Fuel System;Lasso_regression;22.0;cars
+SAE Net Horsepower @ RPM;Lasso_regression;2.0;cars
+Displacement;Lasso_regression;18.0;cars
+Trans Description Cont.;Lasso_regression;28.0;cars
+Trans Type;Lasso_regression;7.0;cars
+Air Bag-Side Head-Front;Lasso_regression;28.0;cars
+Air Bag-Side Head-Rear;Lasso_regression;33.0;cars
+Child Safety Rear Door Locks;Lasso_regression;18.0;cars
+Daytime Running Lights;Lasso_regression;33.0;cars
+Traction Control;Lasso_regression;13.5;cars
+Night Vision;Lasso_regression;13.5;cars
+Rollover Protection Bars;Lasso_regression;22.0;cars
+Basic Miles/km;Lasso_regression;1.0;cars
+Basic Years;Lasso_regression;3.0;cars
+Corrosion Miles/km;Lasso_regression;9.5;cars
+Corrosion Years;Lasso_regression;22.0;cars
+Drivetrain Miles/km;Lasso_regression;28.0;cars
+Drivetrain Years;Lasso_regression;4.0;cars
+Turning Diameter - Curb to Curb (ft);Lasso_regression;13.5;cars
+Front Wheel Material;Lasso_regression;28.0;cars
+Roadside Assistance Miles/km;Lasso_regression;33.0;cars
+Manufacturer;Lasso_regression;22.0;cars
+Model year;Lasso_regression;9.5;cars
+Category;Lasso_regression;28.0;cars
+Front tire width;Lasso_regression;13.5;cars
+Front tire aspect ratio;Lasso_regression;13.5;cars
+Front tire rim size;Lasso_regression;28.0;cars

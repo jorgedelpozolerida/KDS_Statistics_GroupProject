@@ -4,8 +4,8 @@ Engine;CART;26.0;cars
 Drivetrain;CART;26.0;cars
 Passenger Capacity;CART;12.0;cars
 Passenger Doors;CART;26.0;cars
-Wheelbase (in);CART;5.0;cars
-SAE Net Torque @ RPM;CART;6.0;cars
+Wheelbase (in);CART;5.5;cars
+SAE Net Torque @ RPM;CART;5.5;cars
 Fuel System;CART;26.0;cars
 SAE Net Horsepower @ RPM;CART;1.0;cars
 Displacement;CART;3.0;cars

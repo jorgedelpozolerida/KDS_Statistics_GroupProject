@@ -17,6 +17,33 @@ number_of_reviews;CART;6.0;Airbnb_price
 review_scores_rating;CART;9.0;Airbnb_price
 bedrooms;CART;8.0;Airbnb_price
 beds;CART;12.5;Airbnb_price
+zipcode;CART;2.0;austin_housing
+latitude;CART;6.0;austin_housing
+longitude;CART;6.0;austin_housing
+propertyTaxRate;CART;23.5;austin_housing
+garageSpaces;CART;23.5;austin_housing
+hasAssociation;CART;11.0;austin_housing
+hasGarage;CART;23.5;austin_housing
+hasSpa;CART;23.5;austin_housing
+hasView;CART;23.5;austin_housing
+homeType;CART;16.0;austin_housing
+parkingSpaces;CART;23.5;austin_housing
+yearBuilt;CART;4.0;austin_housing
+numPriceChanges;CART;11.0;austin_housing
+numOfAppliances;CART;8.0;austin_housing
+numOfParkingFeatures;CART;16.0;austin_housing
+numOfPatioAndPorchFeatures;CART;16.0;austin_housing
+numOfSecurityFeatures;CART;16.0;austin_housing
+numOfWindowFeatures;CART;23.5;austin_housing
+lotSizeSqFt;CART;16.0;austin_housing
+livingAreaSqFt;CART;1.0;austin_housing
+avgSchoolDistance;CART;11.0;austin_housing
+avgSchoolRating;CART;6.0;austin_housing
+avgSchoolSize;CART;9.0;austin_housing
+MedianStudentsPerTeacher;CART;16.0;austin_housing
+numOfBathrooms;CART;3.0;austin_housing
+numOfBedrooms;CART;16.0;austin_housing
+numOfStories;CART;23.5;austin_housing
 season;CART;7.0;Bike_sharing
 yr;CART;3.0;Bike_sharing
 mnth;CART;9.5;Bike_sharing
@@ -34,8 +61,8 @@ Engine;CART;26.0;cars
 Drivetrain;CART;26.0;cars
 Passenger Capacity;CART;12.0;cars
 Passenger Doors;CART;26.0;cars
-Wheelbase (in);CART;5.0;cars
-SAE Net Torque @ RPM;CART;6.0;cars
+Wheelbase (in);CART;5.5;cars
+SAE Net Torque @ RPM;CART;5.5;cars
 Fuel System;CART;26.0;cars
 SAE Net Horsepower @ RPM;CART;1.0;cars
 Displacement;CART;3.0;cars
@@ -63,15 +90,16 @@ Category;CART;26.0;cars
 Front tire width;CART;12.0;cars
 Front tire aspect ratio;CART;12.0;cars
 Front tire rim size;CART;12.0;cars
-bedrooms;CART;11.5;USA_houseprices_2014
-bathrooms;CART;3.0;USA_houseprices_2014
+bedrooms;CART;11.0;USA_houseprices_2014
+bathrooms;CART;4.0;USA_houseprices_2014
 sqft_living;CART;2.0;USA_houseprices_2014
-sqft_lot;CART;4.0;USA_houseprices_2014
-floors;CART;11.5;USA_houseprices_2014
-waterfront;CART;8.0;USA_houseprices_2014
+sqft_lot;CART;5.0;USA_houseprices_2014
+floors;CART;12.0;USA_houseprices_2014
+waterfront;CART;7.5;USA_houseprices_2014
 view;CART;9.5;USA_houseprices_2014
 condition;CART;1.0;USA_houseprices_2014
 sqft_basement;CART;9.5;USA_houseprices_2014
-year_since_1st_renovation;CART;5.0;USA_houseprices_2014
-city;CART;7.0;USA_houseprices_2014
-statezip;CART;6.0;USA_houseprices_2014
+year_since_1st_renovation;CART;7.5;USA_houseprices_2014
+city;CART;6.0;USA_houseprices_2014
+statezip;CART;3.0;USA_houseprices_2014
+have_basement;CART;13.0;USA_houseprices_2014

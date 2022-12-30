@@ -1,35 +1,35 @@
 feature_name;feature_rank;method;dataset
-EPA Fuel Economy Est - City (MPG);6.0;elastic_net;cars
-Engine;6.0;elastic_net;cars
-Drivetrain;6.0;elastic_net;cars
-Passenger Capacity;6.0;elastic_net;cars
-Passenger Doors;6.0;elastic_net;cars
-Wheelbase (in);6.0;elastic_net;cars
+EPA Fuel Economy Est - City (MPG);27.0;elastic_net;cars
+Engine;9.0;elastic_net;cars
+Drivetrain;24.0;elastic_net;cars
+Passenger Capacity;27.0;elastic_net;cars
+Passenger Doors;20.0;elastic_net;cars
+Wheelbase (in);5.0;elastic_net;cars
 SAE Net Torque @ RPM;6.0;elastic_net;cars
-Fuel System;6.0;elastic_net;cars
-SAE Net Horsepower @ RPM;1.0;elastic_net;cars
-Displacement;6.0;elastic_net;cars
-Trans Description Cont.;6.0;elastic_net;cars
-Trans Type;6.0;elastic_net;cars
-Air Bag-Side Head-Front;6.0;elastic_net;cars
-Air Bag-Side Head-Rear;6.0;elastic_net;cars
-Child Safety Rear Door Locks;6.0;elastic_net;cars
-Daytime Running Lights;6.0;elastic_net;cars
-Traction Control;6.0;elastic_net;cars
-Night Vision;6.0;elastic_net;cars
-Rollover Protection Bars;6.0;elastic_net;cars
-Basic Miles/km;2.0;elastic_net;cars
-Basic Years;6.0;elastic_net;cars
-Corrosion Miles/km;4.0;elastic_net;cars
-Corrosion Years;6.0;elastic_net;cars
-Drivetrain Miles/km;3.0;elastic_net;cars
-Drivetrain Years;6.0;elastic_net;cars
-Turning Diameter - Curb to Curb (ft);6.0;elastic_net;cars
-Front Wheel Material;6.0;elastic_net;cars
-Roadside Assistance Miles/km;5.0;elastic_net;cars
-Manufacturer;6.0;elastic_net;cars
-Model year;6.0;elastic_net;cars
-Category;6.0;elastic_net;cars
-Front tire width;6.0;elastic_net;cars
-Front tire aspect ratio;6.0;elastic_net;cars
-Front tire rim size;6.0;elastic_net;cars
+Fuel System;18.0;elastic_net;cars
+SAE Net Horsepower @ RPM;2.0;elastic_net;cars
+Displacement;27.0;elastic_net;cars
+Trans Description Cont.;21.0;elastic_net;cars
+Trans Type;7.0;elastic_net;cars
+Air Bag-Side Head-Front;27.0;elastic_net;cars
+Air Bag-Side Head-Rear;25.0;elastic_net;cars
+Child Safety Rear Door Locks;14.0;elastic_net;cars
+Daytime Running Lights;26.0;elastic_net;cars
+Traction Control;11.0;elastic_net;cars
+Night Vision;27.0;elastic_net;cars
+Rollover Protection Bars;15.0;elastic_net;cars
+Basic Miles/km;1.0;elastic_net;cars
+Basic Years;4.0;elastic_net;cars
+Corrosion Miles/km;10.0;elastic_net;cars
+Corrosion Years;22.0;elastic_net;cars
+Drivetrain Miles/km;27.0;elastic_net;cars
+Drivetrain Years;3.0;elastic_net;cars
+Turning Diameter - Curb to Curb (ft);12.0;elastic_net;cars
+Front Wheel Material;23.0;elastic_net;cars
+Roadside Assistance Miles/km;27.0;elastic_net;cars
+Manufacturer;16.0;elastic_net;cars
+Model year;13.0;elastic_net;cars
+Category;19.0;elastic_net;cars
+Front tire width;17.0;elastic_net;cars
+Front tire aspect ratio;8.0;elastic_net;cars
+Front tire rim size;27.0;elastic_net;cars

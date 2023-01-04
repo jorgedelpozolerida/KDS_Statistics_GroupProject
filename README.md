@@ -1,7 +1,8 @@
 # KDS_Statistics_GroupProject
 
 Repository containing source code, datasets and results of final project for 
-Advanced Applied Statistics and Multivariate Calculus.
+Advanced Applied Statistics and Multivariate Calculus, course of Data Science 
+master at ITU.
 
 ### Prequisites
 

@@ -7,4 +7,6 @@ Advanced Applied Statistics and Multivariate Calculus.
 
 Install packages described in requirements.txt
 
-## Results
+## Results and Discussion
+
+To see full content of the analysis, please read "report.pdf".

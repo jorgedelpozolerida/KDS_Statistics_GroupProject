@@ -11,7 +11,7 @@ master at [IT University of Copenhagen](https://en.itu.dk/).
 * Janos Mate, [@matejanos](https://github.com/matejanos)
 * Nicolas Obregon Royo,  [@nic-royo](https://github.com/nic-royo)
 
-## Title: 
+## Title
 "Assessing the agreement between common feature selection methods on feature importance for different regression tasks"
 
 ## Abstract
@@ -25,8 +25,12 @@ To test it, we selected 5 different models — Linear and Ridge Regression, Elas
 The results of Kendall's W for all datasets are the following:
 ![](img/kendall_W_results.png)
 
+
+
 And for Top-k overlap:
+
 ![](img/topk_overlap_results.png)
+
 ![](img/Topk_overlaps_alldataset.png)
 
 We conclude that there is sufficient evidence to say that there is some agreement between the methods and we then argue that the level of agreement is quite strong, specially for the first few most important features.

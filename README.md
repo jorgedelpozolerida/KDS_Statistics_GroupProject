@@ -2,6 +2,8 @@
 Repository containing source code, datasets and results of final project for "Advanced Applied Statistics and Multivariate Calculus", course of Data Science
 master at [IT University of Copenhagen](https://en.itu.dk/).
 
+Report with full detail can be found here [report.txt](report.pdf) : 
+
 ### Prequisites
 * Install packages described in [requirements.txt](requirements.txt) file
 

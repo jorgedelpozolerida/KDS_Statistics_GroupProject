@@ -31,6 +31,6 @@ And for Top-k overlap:
 
 ![](img/topk_overlap_results.png)
 
-![](img/Topk_overlaps_alldataset.png)
+<img src="img/Topk_overlaps_alldataset.png"width="50%"/>
 
 We conclude that there is sufficient evidence to say that there is some agreement between the methods and we then argue that the level of agreement is quite strong, specially for the first few most important features.
